@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376693875950",
+    "project_id": "motivational-quotes-f123c",
+    "storage_bucket": "motivational-quotes-f123c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376693875950:android:1e6993d15cb4f0c1893fff",
+        "android_client_info": {
+          "package_name": "com.a13hay.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376693875950-59ggqaptl8ffgjg17kl0mvmp588tomsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGhvt_M7q9i4S0_TFjE70sNy4bH7xsVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376693875950-59ggqaptl8ffgjg17kl0mvmp588tomsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
